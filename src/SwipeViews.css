@@ -6,6 +6,7 @@
 }
 
 .SwipeViewsHeader {
+  flex: 1;
   min-height: 40px;
   border-bottom: #F0F0F0 4px solid;
   display: flex;
