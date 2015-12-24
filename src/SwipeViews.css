@@ -14,7 +14,7 @@
 
 .SwipeViewsTabs {
   flex: 1;
-  min-height: 100%;
+  min-height: 0%;
   display: flex;
   flex-flow: column nowrap;
   margin-bottom: -4px;
